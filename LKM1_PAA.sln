@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LKM1_PAA", "LKM1_PAA.csproj", "{853E44C3-E3A6-4219-8481-DCB9F4B0C3AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853E44C3-E3A6-4219-8481-DCB9F4B0C3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853E44C3-E3A6-4219-8481-DCB9F4B0C3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853E44C3-E3A6-4219-8481-DCB9F4B0C3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853E44C3-E3A6-4219-8481-DCB9F4B0C3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3CE1396-A868-4891-B9D4-5A5B6FBA6D21}
+	EndGlobalSection
+EndGlobal
