@@ -78,7 +78,6 @@ File sudah tersedia di repository:
   "AllowedHosts": "*"
 }
 ```
-> Sesuaikan `port`, `username`, dan `password` jika berbeda dengan konfigurasi lokalmu.
 
 ### 4. Jalankan Project
 Tekan **F5** di Visual Studio → browser otomatis membuka Swagger UI.
